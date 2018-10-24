@@ -20,7 +20,7 @@ public class CylinderTest {
         cylinder.setHeight(5.3645);
         assertEquals(5252.19408, cylinder.calculateVolume(), 0.00001);
 
-        assertTrue(false);
+        assertTrue("Should be true", false);
     }
 
 }
