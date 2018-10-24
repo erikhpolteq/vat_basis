@@ -19,6 +19,8 @@ public class CylinderTest {
         cylinder.setRadius(17.6535);
         cylinder.setHeight(5.3645);
         assertEquals(5252.19408, cylinder.calculateVolume(), 0.00001);
+
+        assertTrue(false);
     }
 
 }
