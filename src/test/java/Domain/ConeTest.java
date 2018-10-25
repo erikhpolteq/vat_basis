@@ -1,8 +1,6 @@
 package Domain;
 
-import Domain.Cone;
 import org.junit.Test;
-
 import static org.junit.Assert.*;
 
 public class ConeTest {
