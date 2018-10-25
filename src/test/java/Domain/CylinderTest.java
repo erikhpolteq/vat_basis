@@ -1,6 +1,5 @@
-package DomainTest;
+package Domain;
 
-import Domain.Cylinder;
 import org.junit.Test;
 
 import static org.junit.Assert.*;

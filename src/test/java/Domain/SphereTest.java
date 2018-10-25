@@ -1,6 +1,5 @@
-package DomainTest;
+package Domain;
 
-import Domain.Sphere;
 import org.junit.Test;
 
 import static org.junit.Assert.*;

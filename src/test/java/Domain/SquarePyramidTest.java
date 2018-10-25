@@ -1,7 +1,6 @@
-package DomainTest;
+package Domain;
 
 
-import Domain.SquarePyramid;
 import org.junit.Test;
 
 import static org.junit.Assert.*;
