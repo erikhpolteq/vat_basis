@@ -1,10 +1,11 @@
-package Domain;
+package DomainTest;
 
+import Domain.Cylinder;
 import org.junit.Test;
 
 import static org.junit.Assert.*;
 
-//import Domain.Cylinder;
+//import Cylinder;
 
 public class CylinderTest {
     @Test

@@ -1,4 +1,4 @@
-package Domain;
+package DomainTest;
 
 import Domain.Sphere;
 import org.junit.Test;

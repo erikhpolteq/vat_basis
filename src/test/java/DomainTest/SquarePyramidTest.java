@@ -1,4 +1,4 @@
-package Domain;
+package DomainTest;
 
 
 import Domain.SquarePyramid;

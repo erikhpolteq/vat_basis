@@ -1,5 +1,6 @@
-package BusinessLogic;
+package BusinessLogicTest;
 
+import BusinessLogic.ShapeManager;
 import Domain.*;
 
 import org.junit.Test;
